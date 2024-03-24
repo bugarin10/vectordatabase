@@ -1,0 +1,142 @@
+RAFAEL DAVILA-BUGARIN
+Durham, NC
+Phone: (919) 358 6976
+Email: rafael.davilabugarin@duke.edu
+LinkedIn: Rafael Davila Bugarin
+GitHub: bugarin10
+NGO: Sodemca Academy
+
+Technical Skills
+Frameworks & Languages: Python, PyTorch, Tensorflow, PySpark, R, SQL, Tableau, Power BI, git, emacs, docker, AWS, Azure
+Languages: English, Spanish, French (B2)
+
+Relevant Experience
+
+Research Assistant
+Duke Center for Research & Engineering of AI Technology in Education
+Durham, NC
+January 2024 - Present
+
+Developing AI-based software tools to enhance teaching and learning.
+Leading the data engineering process for Retrieval Augmented Generation (RAG) with Language Models (LLMs).
+Digital Transformation Officer
+Federal Telecommunications Institute
+Benito Juarez, Mexico City
+March 2021 – June 2023
+
+Facilitated communication between IT and Business units.
+Identified and resolved data validation gaps and data source silos.
+Managed end-to-end ETL project, delivering a KPI dashboard for stakeholders.
+Data Science Consultant
+OZMO
+Remote
+2022
+
+Applied Temporal Social Network Analysis (TSNA) to analyze information flow within a fintech firm.
+Used the Entanglement measure to identify communication dynamics and trends.
+Director of Market Analytics
+Federal Telecommunications Institute
+Benito Juarez, Mexico City
+April 2019 – March 2021
+
+Led statistical analysis and database control teams.
+Provided economic evidence for mergers and acquisitions evaluations.
+Implemented efficient relational databases and improved communication with data engineers.
+Director of Data Analytics
+Federal Telecommunications Institute
+Benito Juarez, Mexico City
+September 2017 – April 2019
+
+Managed data analytics team and established cross-departmental communication channels.
+Developed SQL databases for productivity and applied mathematical models for economic analysis.
+Utilized R and Google APIs for geolocation and market analysis.
+Education
+
+Master’s in Interdisciplinary Data Science
+Duke University
+August 2023 - Present
+
+Courses: Natural Language Processing, Statistical Modeling, Data Engineering (DevOps, MLOps), Machine Learning, LLM, Cloud at Scale, Inferential Modeling.
+Cloud Club Member
+Master of Science in Economics
+Center for Research and Teaching in Economics (CIDE)
+Mexico City
+August 2014 – June 2016
+
+Intensive program focused on Economics, Mathematics, and Statistics.
+Bachelor of Applied Mathematics
+University of Aguascalientes
+Aguascalientes, Mexico
+August 2008 – June 2013
+
+Intensive program focused on Programming, Statistics, and Mathematics.
+Honors and Awards
+
+Fulbright Scholar 2023: Masters in Data Science at Duke University.
+CONACYT Excellence graduate program (2014-2016): Full grant for Masters in Economics at CIDE.
+Other Courses and Certificates
+
+Data Analytics and Visualization Bootcamp, Tecnológico de Monterrey (2020)
+Quantitative Methods for Competition Analysis, Graduate School of Economics, Spain (2018)
+Data Science Professional Certificate, IBM-Coursera (2020)
+Digital Transformation, McKinsey Consulting Group-University of Virginia-Coursera (2022)
+
+Fulbright Overview:
+
+Rafael Dávila Bugarín, a notable graduate of Universidad Autónoma de Aguascalientes (UAA), has received the prestigious Fulbright-García Robles scholarship for his second master's degree in the USA. He's chosen Duke University in North Carolina for his studies in Data Science.
+
+The Fulbright-García Robles scholarship has benefited around 5,000 scholars from Mexico and the USA over 30 years. It's administered by COMEXUS and is highly respected for its rigorous selection process.
+
+Rafael also works at the Instituto Federal de Telecomunicaciones and values the role of mathematics in his career. He's passionate about inspiring young minds through mathematics clubs for children.
+
+Rafael Dávila Bugarín will begin his studies in the USA this August, returning to Mexico afterward as per Fulbright scholarship policies to contribute to his home country's intellectual growth.
+
+
+SODEMCA Overview:
+
+Summer Course
+
+A 5-Saturday program from 9 am to 1 pm encourages critical thinking through playful activities, strategy games, logic games, and a pre-algebra showcase.
+
+Mathematics Club
+
+Our flagship club offers support for mathematics enthusiasts to build a community and share their passion for mathematics.
+
+Mathematics Olympiads
+
+Mexico's progress in International Mathematics Olympiads is supported by volunteers. We aim to nurture mathletes through training with top instructors.
+
+Support
+
+We provide expert guidance for children facing challenges in learning mathematics.
+
+
+SODEMCA's Theory of change
+
+Objective:
+
+To contribute to children's education in Mexico by teaching the following 21st-century skills:
+
+1. Critical thinking,
+2. Problem-solving,
+3. Communication,
+4. Collaboration,
+5. Creativity and innovation.
+
+How?
+
+By creating mathematics clubs where:
+
+1. We will nurture a love for this subject,
+2. Provide a safe space to build community among members with similar interests,
+3. Incorporate innovative educational materials,
+4. Train teachers for better mathematics instruction,
+5. Provide evidence-based support to parents for their children's educational development.
+
+What are the consequences of learning mathematics?
+
+1. Improves mental agility,
+2. Develops critical thinking and creativity,
+3. Contributes to emotional well-being,
+4. Fosters a positive attitude towards mistakes,
+5. Helps manage frustration.
