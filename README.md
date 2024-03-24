@@ -1,6 +1,22 @@
-### Guide to Understanding the Code for Creating a Vectordatabase
+### Guide to Understanding the Code for Creating a Vectordatabase 
 
 I'll walk you through the code step by step to explain what a vectordatabase is and how it's being created using Python and various libraries.
+
+### Prerequisites:
+1. Install [Ollama](https://ollama.com/) 🦙
+2. Run Ollama in the back:
+```bash
+ollama serve
+```
+3. Virtual Environment
+```bash
+Make venv
+```
+
+3. Install requirements
+```bash
+Make install
+```
 
 1. **Importing Necessary Libraries:**
    ```python
@@ -94,16 +110,14 @@ I'll walk you through the code step by step to explain what a vectordatabase is 
 
    This is the output:
 
-   ```bash
-   Rafael Davila Bugarín is a highly motivated and accomplished individual with a passion for mathematics and education. As a Fulbright-García Robles scholar, he will be pursuing his second master's degree in Data Science at Duke University in North Carolina. Rafael has also worked as a Research Assistant at the Duke Center for Research & Engineering of AI Technology in Education and as a Digital Transformation Officer at the Federal Telecommunications Institute Benito Juarez in Mexico City.
+```bash
+Rafael Davila Bugarín is a Mexican data scientist who has received the Fulbright-García Robles scholarship to pursue his second master's degree in Data Science at Duke University in North Carolina, USA. He works at the Instituto Federal de Telecomunicaciones and values the role of mathematics in his career. Rafael is also passionate about inspiring young minds through mathematics clubs for children.
 
-Rafael values the role of mathematics in his career and is dedicated to inspiring young minds through mathematics clubs for children. He is also skilled in various technical skills, including Python, PyTorch, Tensorflow, PySpark, R, SQL, Tableau, Power BI, git, emacs, docker, AWS, and Azure. Additionally, he has experience in leading data engineering processes and developing AI-based software tools to enhance teaching and learning.
+Rafael's technical skills include Python, PyTorch, Tensorflow, PySpark, R, SQL, Tableau, Power BI, git, emacs, docker, and AWS, among others. He has relevant experience as a research assistant at the Duke Center for Research & Engineering of AI Technology in Education, where he develops AI-based software tools to enhance teaching and learning.
 
-SODEMCA, a summer course program that Rafael is involved with, encourages critical thinking through playful activities, strategy games, logic games, and a pre-algebra showcase. The program also provides expert guidance for children facing challenges in learning mathematics.
+Rafael is also involved in various educational initiatives, including the Mathematics Club and Mathematics Olympiads, which aim to promote mathematics education in Mexico. He is part of the SODEMCA Overview, a summer course that encourages critical thinking through playful activities, strategy games, logic games, and a pre-algebra showcase.
 
-Rafael's theory of change aims to contribute to children's education in Mexico by teaching 21st-century skills such as critical thinking, problem-solving, communication, collaboration, and creativity and innovation. To achieve this, SODEMCA creates mathematics clubs where members can nurture their love for mathematics, build a community, incorporate innovative educational materials, train teachers, and provide evidence-based support to parents.
-
-The consequences of learning mathematics according to Rafael include improved mental abilities, problem-solving skills, and critical thinking. He believes that these skills are essential for children's intellectual growth and development.
+According to Rafael, learning mathematics can have numerous benefits for children, including improving their mental abilities, problem-solving skills, communication, collaboration, and creativity. He believes that by providing evidence-based support to parents and incorporating innovative educational materials, he can help nurture mathletes and contribute to the intellectual growth of Mexico.
 ```
 
 This code essentially demonstrates the process of creating and utilizing a vectordatabase to store and retrieve text data efficiently for language-related tasks.
